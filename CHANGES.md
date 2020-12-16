@@ -6,6 +6,10 @@ Known issues:
 
 ## not yet released
 
+- [TRITON-2919] Support AWS style VPCs
+
+## 7.13.0
+
 - [TRITON-2182] make check fixes
 
 ## 7.12.0
