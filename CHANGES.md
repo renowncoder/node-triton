@@ -6,6 +6,11 @@ Known issues:
 
 ## not yet released
 
+## 7.12.2
+
+- Add in sourcing from an instance tag an alternate port to ssh to for 
+  circumstances where instances have ssh listening on a non-standard port.
+
 ## 7.11.0
 
 - [TRITON-853] cloudapi should allow creation of instances with delegated datasets
